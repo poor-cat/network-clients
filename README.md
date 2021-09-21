@@ -1,3 +1,3 @@
 # network-clients
 
-Simple networks cients in python, works on sockets :)
+Simple network cients in python, works on sockets :)
