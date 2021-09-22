@@ -12,3 +12,6 @@ response = connection.getresponse()
 print("Status: {} and reason: {}".format(response.status, response.reason))
 
 connection.close()
+
+
+
